@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Routing;
 using Microsoft.AspNetCore.Routing.Template;
 
-namespace Routes.Helpers;
+namespace NightCloud.Common.Routes.Helpers;
 
 public class RoutePatternHelper : IRoutePatternHelper
 {

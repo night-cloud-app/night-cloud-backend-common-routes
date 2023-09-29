@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Routing;
 
-namespace Routes.Helpers;
+namespace NightCloud.Common.Routes.Helpers;
 
 public interface IRoutePatternHelper
 {

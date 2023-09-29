@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace Routes.Helpers;
+namespace NightCloud.Common.Routes.Helpers;
 
 public static class Extensions
 {
